@@ -1,0 +1,20 @@
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\bin\Debug\NutritionAndDietetics.exe.config
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\bin\Debug\NutritionAndDietetics.exe
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\bin\Debug\NutritionAndDietetics.pdb
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.csprojAssemblyReference.cache
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.Form1.resources
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.Properties.Resources.resources
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.csproj.GenerateResource.cache
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.exe
+C:\Users\Yiğit\source\repos\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.pdb
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\bin\Debug\NutritionAndDietetics.exe.config
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\bin\Debug\NutritionAndDietetics.exe
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\bin\Debug\NutritionAndDietetics.pdb
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.csprojAssemblyReference.cache
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.Form1.resources
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.Properties.Resources.resources
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.csproj.GenerateResource.cache
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.csproj.CoreCompileInputs.cache
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.exe
+E:\piksel yaz okulu\NutritionAndDietetics\NutritionAndDietetics\obj\Debug\NutritionAndDietetics.pdb
